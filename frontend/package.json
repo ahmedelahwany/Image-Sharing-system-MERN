@@ -8,6 +8,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --watchAll=false",
     "test:coverage": "jest --coverage",
+    "test:quality": "npm run style",
     "eject": "react-scripts eject",
     "style": "eslint .",
     "style:fix": "npm run style -- --fix",
