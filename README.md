@@ -17,8 +17,10 @@ Users are not identified, anyone can upload images without authentication.
 Anonymous users can like images ,but they cannot dislike them.
 If an anonymous user liked an image, then he/she cannot like it again.
 
+If a user close the application then it forgets the user after 24 hours.
+
 ## Installation and technologies used
 
 Check README files in frontend and backend folders
 
-If a user close the application then it forgets the user after 24 hours.
+
