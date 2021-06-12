@@ -25,6 +25,7 @@ Check README files in frontend and backend folders
 
 ## Technologies
 MERN stack
+
 node, npm - interpreter and package manager
 
 Bootstrap, node-sass - CSS generation, layout and design
