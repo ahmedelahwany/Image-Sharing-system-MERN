@@ -26,12 +26,19 @@ Check README files in frontend and backend folders
 ## Technologies
 MERN stack
 node, npm - interpreter and package manager
+
 Bootstrap, node-sass - CSS generation, layout and design
+
 jest - testing
+
 eslint - syntax and style checker
+
 husky - pre-commit hook for code quality
+
 flux - unidirectional dataflow, state management
+
 axios - AJAX requests.
+
 docker , swagger
 
 
